@@ -3,8 +3,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Robertson-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gabrielrobertson-s/)
 [![Portfólio](https://img.shields.io/badge/Portfólio-gabrielrobertson.com.br-0070f3?style=flat-square&logo=google-chrome)](https://gabrielrobertson.com.br/)
+[![Freelance](https://img.shields.io/badge/Status-Dispon%C3%ADvel%20para%20Freelance%20%26%20Projetos-success?style=flat-square&logo=gitbook)](#-vamos-conectar)
 [![Email](https://img.shields.io/badge/Email-contato%40gabrielrobertson.com.br-D14836?style=flat-square&logo=gmail)](mailto:contato@gabrielrobertson.com.br)
-[![Location](https://img.shields.io/badge/Localização-Juiz%20de%20Fora%2C%20MG-red?style=flat-square&logo=google-maps)](#)
 
 ---
 
@@ -17,6 +17,7 @@ Meu foco é traduzir a complexidade industrial do chão de fábrica em soluçõe
 - ⚙️ **Área de Atuação:** Engenharia de Processos, BI, Automação industrial/corporativa e Análise de Dados.
 - 🎯 **Propósito:** Eliminar gargalos operacionais e impulsionar a tomada de decisão *data-driven*.
 - 🎓 **Formação:** Análise e Desenvolvimento de Sistemas.
+- 🤝 **Freelance & Consultoria:** Disponível para desenvolvimento de projetos sob medida, automação corporativa, dashboards (Power BI/Grafana) e consultoria em engenharia de processos.
 
 ---
 
@@ -29,6 +30,15 @@ Meu foco é traduzir a complexidade industrial do chão de fábrica em soluçõe
 | **Automação & RPA** | Power Automate, Power Apps, Scripts Python |
 | **Cibersegurança & Inovação** | NIST Framework, SentinelOne, Integração de IA (LLMs/APIs) |
 | **Infraestrutura & Gestão** | Git, GitHub, Sistemas de Chamados, Métodos Ágeis |
+
+---
+
+## 💼 Serviços Freelance & Soluções
+
+- 📊 **Dashboards & Business Intelligence:** Criação de visões dinâmicas em Power BI/Grafana para acompanhamento em tempo real.
+- 🤖 **Automação de Processos (RPA):** Fluxos em Power Automate, Power Apps e scripts Python para otimização de rotinas manuais.
+- 🌐 **Desenvolvimento Web sob Medida:** Construção de sites institucionais, sistemas web e portfólios funcionais (PHP, HTML/CSS, JS).
+- ⚙️ **Engenharia de Processos & Dados:** Estruturação de dados brutos e mapeamento de processos operacionais.
 
 ---
 
@@ -51,6 +61,8 @@ Meu foco é traduzir a complexidade industrial do chão de fábrica em soluçõe
 ---
 
 ## 📫 Vamos Conectar?
+
+🟢 **Disponível para novos desafios, projetos Freelance e consultorias!**
 
 - **Website / Portfólio:** [gabrielrobertson.com.br](https://gabrielrobertson.com.br/)
 - **LinkedIn:** [linkedin.com/in/gabrielrobertson-s](https://www.linkedin.com/in/gabrielrobertson-s/)

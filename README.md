@@ -1,0 +1,57 @@
+# Gabriel Robertson Santos de Castro
+### Analista Técnico de Produção | Engenheiro de Processos | Transformação Digital
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Robertson-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gabrielrobertson-s/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-gabrielrobertson.com.br-0070f3?style=flat-square&logo=google-chrome)](https://gabrielrobertson.com.br/)
+[![Email](https://img.shields.io/badge/Email-contato%40gabrielrobertson.com.br-D14836?style=flat-square&logo=gmail)](mailto:contato@gabrielrobertson.com.br)
+[![Location](https://img.shields.io/badge/Localização-Juiz%20de%20Fora%2C%20MG-red?style=flat-square&logo=google-maps)](#)
+
+---
+
+## 📌 Sobre Mim
+
+Sou **Analista Técnico de Produção** com trajetória de cerca de 10 anos no setor automotivo e industrial (Mercedes-Benz). Graduado em **Análise e Desenvolvimento de Sistemas (ADS)**, atuo na interseção estratégica entre a **Engenharia de Processos** e a **Transformação Digital**.
+
+Meu foco é traduzir a complexidade industrial do chão de fábrica em soluções de software eficientes, decisão orientada a dados e automação de processos de alta performance.
+
+- ⚙️ **Área de Atuação:** Engenharia de Processos, BI, Automação industrial/corporativa e Análise de Dados.
+- 🎯 **Propósito:** Eliminar gargalos operacionais e impulsionar a tomada de decisão *data-driven*.
+- 🎓 **Formação:** Análise e Desenvolvimento de Sistemas.
+
+---
+
+## 🛠️ Hard Skills & Ecossistema Técnico
+
+| Categoria | Tecnologias & Ferramentas |
+| :--- | :--- |
+| **Linguagens & Scripting** | Python, SQL, PHP, HTML5/CSS3/JavaScript |
+| **Análise de Dados & BI** | Power BI, Grafana, Pandas, SQL (Query & Modelagem) |
+| **Automação & RPA** | Power Automate, Power Apps, Scripts Python |
+| **Cibersegurança & Inovação** | NIST Framework, SentinelOne, Integração de IA (LLMs/APIs) |
+| **Infraestrutura & Gestão** | Git, GitHub, Sistemas de Chamados, Métodos Ágeis |
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 🌐 [Plataforma Web & Sistema de Gestão do Portfólio Pessoal](https://gabrielrobertson.com.br/)
+* **Descrição:** Desenvolvimento de uma plataforma web responsiva e modular criada para centralizar a trajetória profissional, casos de estudo, matriz de competências e um laboratório de protótipos.
+* **Tecnologias:** PHP, HTML5/CSS3, JavaScript, Engenharia de Software Web e Otimização SEO.
+* **Destaques:** Arquitetura limpa, separação entre ambiente de produção e laboratório de experimentos (`laboratorio.php`), otimização de performance e acessibilidade.
+
+---
+
+## 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielRobertson&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub de Gabriel Robertson" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRobertson&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" height="150" />
+</p>
+
+---
+
+## 📫 Vamos Conectar?
+
+- **Website / Portfólio:** [gabrielrobertson.com.br](https://gabrielrobertson.com.br/)
+- **LinkedIn:** [linkedin.com/in/gabrielrobertson-s](https://www.linkedin.com/in/gabrielrobertson-s/)
+- **E-mail:** [contato@gabrielrobertson.com.br](mailto:contato@gabrielrobertson.com.br)

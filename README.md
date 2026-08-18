@@ -17,7 +17,7 @@ Meu foco é traduzir a complexidade industrial do chão de fábrica em soluçõe
 - ⚙️ **Área de Atuação:** Engenharia de Processos, BI, Automação industrial/corporativa e Análise de Dados.
 - 🎯 **Propósito:** Eliminar gargalos operacionais e impulsionar a tomada de decisão *data-driven*.
 - 🎓 **Formação:** Análise e Desenvolvimento de Sistemas.
-- 🤝 **Freelance & Consultoria:** Disponível para desenvolvimento de projetos sob medida, automação corporativa, dashboards (Power BI/Grafana) e consultoria em engenharia de processos.
+- 🤝 **Freelance & Consultoria:** Disponível para desenvolvimento de projetos sob medida, automaçãos.
 
 ---
 
@@ -49,16 +49,7 @@ Meu foco é traduzir a complexidade industrial do chão de fábrica em soluçõe
 * **Tecnologias:** PHP, HTML5/CSS3, JavaScript, Engenharia de Software Web e Otimização SEO.
 * **Destaques:** Arquitetura limpa, separação entre ambiente de produção e laboratório de experimentos (`laboratorio.php`), otimização de performance e acessibilidade.
 
----
 
-## 📈 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielRobertson&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub de Gabriel Robertson" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRobertson&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" height="150" />
-</p>
-
----
 
 ## 📫 Vamos Conectar?
 

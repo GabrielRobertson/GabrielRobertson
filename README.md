@@ -17,7 +17,7 @@ Meu foco é traduzir a complexidade industrial do chão de fábrica em soluçõe
 - ⚙️ **Área de Atuação:** Engenharia de Processos, BI, Automação industrial/corporativa e Análise de Dados.
 - 🎯 **Propósito:** Eliminar gargalos operacionais e impulsionar a tomada de decisão *data-driven*.
 - 🎓 **Formação:** Análise e Desenvolvimento de Sistemas.
-- 🤝 **Freelance & Consultoria:** Disponível para desenvolvimento de projetos sob medida, automaçãos.
+- 🤝 **Freelance & Consultoria:** Disponível para desenvolvimento de projetos.
 
 ---
 
